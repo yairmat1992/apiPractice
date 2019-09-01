@@ -1,9 +1,10 @@
 .card{
     max-width: 200px;
 }
+.head{font-style: italic;border: 2px solid yellow;width: 400px;text-shadow: yellow 1px 1px;background-color: black}
 
 .jumbBg{
-    background-image: url('images/earthBg.jpg');
+    background-image: url('https://timedotcom.files.wordpress.com/2017/11/earth-nasa-gif.gif');
     background-size: cover;
     color:white;
 }
@@ -13,7 +14,6 @@
     background: -webkit-linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to bottom, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
-    
-    
-}
-
+    }
+.btn{background-color: black;color: wheat;border-radius: 15px;width: fit-content}
+.btn:hover{background-color: rgb(255, 236, 236);color: rgb(10, 10, 9);font-weight: bold;font-size: 15px}

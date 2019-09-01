@@ -25,4 +25,3 @@ function getCountryByLanguage(language) {
         method: "GET",
     })
 }
-
